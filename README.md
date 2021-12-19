@@ -1,12 +1,15 @@
 # MSBD5003_BigDataComputing
 
+This repository contains source code for slides and project
+
+
 - [x] Overview, MapReduce, Hadoop.
 - [x] Spark basics and RDD.
 - [x] Cloud computing and Microsoft Azure. 
-SQL and SparkSQL. 
-Spark internals. 
-Algorithm design for big data systems. 
-GraphX/GraphFrames.
-Spark Streaming, Flink. 
-Machine learning and MLlib. 
-HBase, MongoDB. 
+- [x] SQL and SparkSQL. 
+- [x] Spark internals. 
+- [x] Algorithm design for big data systems. 
+- [x] GraphX/GraphFrames.
+- [x] Spark Streaming, Flink. 
+- [x] Machine learning and MLlib. 
+- [x] HBase, MongoDB. 
