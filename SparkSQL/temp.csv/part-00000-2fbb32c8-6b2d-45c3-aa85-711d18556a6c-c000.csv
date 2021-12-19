@@ -1,0 +1,543 @@
+SalesOrderID,SalesOrderDetailID,Name,UnitPrice,OrderQty
+71938,113278,"Sport-100 Helmet, Red",20.994,3
+71936,113228,"Sport-100 Helmet, Red",20.994,1
+71902,112980,"Sport-100 Helmet, Red",20.994,2
+71797,111075,"Sport-100 Helmet, Red",20.994,6
+71784,110794,"Sport-100 Helmet, Red",20.994,10
+71783,110751,"Sport-100 Helmet, Red",20.994,10
+71782,110709,"Sport-100 Helmet, Red",20.994,3
+71938,113295,"Sport-100 Helmet, Black",29.994,5
+71902,112988,"Sport-100 Helmet, Black",20.994,4
+71797,111082,"Sport-100 Helmet, Black",20.2942,12
+71784,110795,"Sport-100 Helmet, Black",20.2942,12
+71783,110752,"Sport-100 Helmet, Black",20.2942,11
+71782,110690,"Sport-100 Helmet, Black",20.994,7
+71938,113282,"Sport-100 Helmet, Blue",20.994,3
+71902,112995,"Sport-100 Helmet, Blue",20.994,7
+71863,112395,"Sport-100 Helmet, Blue",20.994,1
+71797,111038,"Sport-100 Helmet, Blue",20.994,4
+71784,110753,"Sport-100 Helmet, Blue",20.994,2
+71783,110749,"Sport-100 Helmet, Blue",19.2445,15
+71782,110708,"Sport-100 Helmet, Blue",20.994,6
+71938,113283,AWC Logo Cap,5.394,1
+71902,112962,AWC Logo Cap,5.394,3
+71897,112902,AWC Logo Cap,5.394,4
+71858,112375,AWC Logo Cap,5.394,3
+71816,111457,AWC Logo Cap,5.394,4
+71797,111053,AWC Logo Cap,5.394,6
+71784,110761,AWC Logo Cap,5.394,10
+71783,110748,AWC Logo Cap,5.2142,11
+71782,110670,AWC Logo Cap,5.394,10
+71938,113290,"Long-Sleeve Logo Jersey, M",29.994,2
+71902,112976,"Long-Sleeve Logo Jersey, M",29.994,3
+71899,112939,"Long-Sleeve Logo Jersey, M",29.994,2
+71797,111040,"Long-Sleeve Logo Jersey, M",29.994,1
+71784,110760,"Long-Sleeve Logo Jersey, M",29.994,9
+71783,110717,"Long-Sleeve Logo Jersey, M",29.994,6
+71782,110667,"Long-Sleeve Logo Jersey, M",29.994,3
+71938,113312,"Long-Sleeve Logo Jersey, L",29.994,3
+71902,112967,"Long-Sleeve Logo Jersey, L",29.994,3
+71895,112865,"Long-Sleeve Logo Jersey, L",29.994,2
+71858,112362,"Long-Sleeve Logo Jersey, L",29.994,2
+71845,112138,"Long-Sleeve Logo Jersey, L",29.994,2
+71816,111456,"Long-Sleeve Logo Jersey, L",29.994,2
+71797,111048,"Long-Sleeve Logo Jersey, L",29.994,4
+71784,110786,"Long-Sleeve Logo Jersey, L",29.994,8
+71783,110744,"Long-Sleeve Logo Jersey, L",27.4945,17
+71782,110686,"Long-Sleeve Logo Jersey, L",29.994,8
+71797,111049,"Long-Sleeve Logo Jersey, XL",29.994,5
+71784,110764,"Long-Sleeve Logo Jersey, XL",29.994,5
+71783,110745,"Long-Sleeve Logo Jersey, XL",29.994,4
+71867,112452,"HL Road Frame - Red, 62",858.9,1
+71797,111079,"HL Road Frame - Red, 62",858.9,2
+71797,111047,"HL Road Frame - Red, 44",858.9,1
+71783,110743,"HL Road Frame - Red, 44",858.9,2
+71797,111045,"LL Road Frame - Black, 58",202.332,3
+71783,110730,"LL Road Frame - Black, 58",202.332,6
+71938,113297,"LL Road Frame - Black, 52",202.332,3
+71915,113090,"LL Road Frame - Black, 52",202.332,2
+71815,111451,"LL Road Frame - Black, 52",202.332,1
+71797,111044,"LL Road Frame - Black, 52",202.332,1
+71783,110710,"LL Road Frame - Black, 52",202.332,4
+71936,113261,"HL Mountain Frame - Silver, 42",818.7,5
+71846,112150,"HL Mountain Frame - Silver, 42",818.7,1
+71936,113268,"HL Mountain Frame - Silver, 46",818.7,7
+71845,112121,"HL Mountain Frame - Silver, 46",818.7,3
+71936,113260,"HL Mountain Frame - Black, 42",809.76,4
+71899,112937,"HL Mountain Frame - Black, 42",809.76,1
+71845,112137,"HL Mountain Frame - Black, 42",809.76,2
+71832,111806,"HL Mountain Frame - Black, 42",809.76,4
+71780,110622,"HL Mountain Frame - Black, 42",809.76,1
+71936,113235,"HL Mountain Frame - Black, 38",809.76,4
+71845,112134,"HL Mountain Frame - Black, 38",809.76,3
+71936,113242,"HL Mountain Frame - Silver, 38",818.7,5
+71902,112997,"HL Mountain Frame - Silver, 38",818.7,7
+71845,112127,"HL Mountain Frame - Silver, 38",818.7,1
+71832,111808,"HL Mountain Frame - Silver, 38",818.7,1
+71780,110619,"HL Mountain Frame - Silver, 38",818.7,2
+71936,113245,"Mountain-200 Silver, 38",1391.994,4
+71902,112989,"Mountain-200 Silver, 38",1391.994,3
+71845,112146,"Mountain-200 Silver, 38",1391.994,3
+71832,111814,"Mountain-200 Silver, 38",1391.994,1
+71936,113233,"Mountain-200 Silver, 42",1391.994,3
+71902,112953,"Mountain-200 Silver, 42",1391.994,5
+71845,112122,"Mountain-200 Silver, 42",1391.994,2
+71832,111815,"Mountain-200 Silver, 42",1391.994,1
+71780,110625,"Mountain-200 Silver, 42",1391.994,4
+71936,113265,"Mountain-200 Silver, 46",1391.994,4
+71902,112958,"Mountain-200 Silver, 46",1391.994,5
+71845,112129,"Mountain-200 Silver, 46",1391.994,2
+71832,111795,"Mountain-200 Silver, 46",1391.994,2
+71936,113246,"Mountain-200 Black, 38",1376.994,8
+71902,112972,"Mountain-200 Black, 38",1376.994,8
+71845,112143,"Mountain-200 Black, 38",1376.994,2
+71832,111803,"Mountain-200 Black, 38",1376.994,3
+71831,111791,"Mountain-200 Black, 38",1376.994,1
+71780,110623,"Mountain-200 Black, 38",1376.994,4
+71936,113240,"Mountain-200 Black, 42",1376.994,10
+71902,112957,"Mountain-200 Black, 42",1376.994,7
+71845,112131,"Mountain-200 Black, 42",1376.994,5
+71780,110638,"Mountain-200 Black, 42",1376.994,5
+71936,113241,"Mountain-200 Black, 46",1376.994,5
+71902,112973,"Mountain-200 Black, 46",1376.994,2
+71845,112132,"Mountain-200 Black, 46",1376.994,2
+71832,111810,"Mountain-200 Black, 46",1376.994,5
+71938,113285,"Road-250 Red, 58",1466.01,3
+71938,113305,"Road-250 Black, 44",1466.01,3
+71797,111073,"Road-250 Black, 44",1466.01,6
+71783,110712,"Road-250 Black, 44",1466.01,3
+71938,113310,"Road-250 Black, 48",1466.01,7
+71797,111065,"Road-250 Black, 48",1466.01,5
+71938,113301,"Road-250 Black, 52",1466.01,6
+71797,111066,"Road-250 Black, 52",1466.01,2
+71938,113294,"Road-250 Black, 58",1466.01,3
+71938,113306,"Road-550-W Yellow, 38",672.294,5
+71797,111067,"Road-550-W Yellow, 38",672.294,10
+71783,110734,"Road-550-W Yellow, 38",672.294,4
+71938,113287,"Road-550-W Yellow, 40",672.294,5
+71797,111058,"Road-550-W Yellow, 40",672.294,2
+71783,110735,"Road-550-W Yellow, 40",672.294,1
+71938,113288,"Road-550-W Yellow, 42",672.294,4
+71783,110724,"Road-550-W Yellow, 42",672.294,1
+71938,113315,"Road-550-W Yellow, 44",672.294,3
+71938,113309,"Road-550-W Yellow, 48",672.294,5
+71797,111061,"Road-550-W Yellow, 48",672.294,2
+71783,110736,"Road-550-W Yellow, 48",672.294,1
+71936,113230,LL Mountain Handlebars,26.724,4
+71899,112938,LL Mountain Handlebars,26.724,1
+71845,112140,LL Mountain Handlebars,26.724,1
+71832,111817,LL Mountain Handlebars,26.724,1
+71936,113263,ML Mountain Handlebars,37.152,5
+71902,112984,ML Mountain Handlebars,37.152,2
+71845,112135,ML Mountain Handlebars,37.152,1
+71832,111818,ML Mountain Handlebars,37.152,1
+71780,110639,ML Mountain Handlebars,37.152,3
+71902,112974,HL Mountain Handlebars,72.162,1
+71832,111797,HL Mountain Handlebars,72.162,1
+71780,110640,HL Mountain Handlebars,72.162,1
+71938,113279,HL Road Handlebars,72.162,1
+71797,111059,HL Road Handlebars,72.162,2
+71783,110719,HL Road Handlebars,72.162,1
+71797,111083,"ML Road Frame-W - Yellow, 38",356.898,2
+71783,110723,"ML Road Frame-W - Yellow, 38",356.898,1
+71774,110563,"ML Road Frame-W - Yellow, 38",356.898,1
+71938,113276,"ML Road Frame-W - Yellow, 44",356.898,2
+71815,111452,"ML Road Frame-W - Yellow, 44",356.898,2
+71797,111046,"ML Road Frame-W - Yellow, 44",356.898,5
+71783,110740,"ML Road Frame-W - Yellow, 44",356.898,3
+71915,113089,"ML Road Frame-W - Yellow, 48",356.898,3
+71797,111081,"ML Road Frame-W - Yellow, 48",356.898,4
+71783,110741,"ML Road Frame-W - Yellow, 48",356.898,4
+71774,110562,"ML Road Frame-W - Yellow, 48",356.898,1
+71797,111039,"HL Road Frame - Black, 44",858.9,2
+71783,110742,"HL Road Frame - Black, 44",858.9,4
+71797,111080,"Half-Finger Gloves, S",14.694,4
+71784,110769,"Half-Finger Gloves, S",14.694,6
+71783,110725,"Half-Finger Gloves, S",14.694,2
+71938,113303,"Half-Finger Gloves, M",14.694,2
+71902,112959,"Half-Finger Gloves, M",14.694,2
+71797,111076,"Half-Finger Gloves, M",14.694,9
+71784,110790,"Half-Finger Gloves, M",14.694,5
+71783,110715,"Half-Finger Gloves, M",14.694,7
+71782,110705,"Half-Finger Gloves, M",14.694,1
+71936,113255,"Half-Finger Gloves, L",14.694,6
+71797,111052,"Half-Finger Gloves, L",14.694,4
+71783,110726,"Half-Finger Gloves, L",14.694,9
+71938,113289,"Classic Vest, S",38.1,4
+71920,113143,"Classic Vest, S",38.1,3
+71902,112982,"Classic Vest, S",38.1,6
+71897,112904,"Classic Vest, S",38.1,1
+71895,112866,"Classic Vest, S",38.1,3
+71885,112646,"Classic Vest, S",38.1,3
+71797,111070,"Classic Vest, S",34.925,23
+71784,110791,"Classic Vest, S",34.925,23
+71783,110727,"Classic Vest, S",34.925,15
+71782,110673,"Classic Vest, S",38.1,6
+71938,113296,"Classic Vest, M",38.1,5
+71902,113002,"Classic Vest, M",38.1,6
+71797,111069,"Classic Vest, M",38.1,1
+71784,110757,"Classic Vest, M",38.1,8
+71783,110747,"Classic Vest, M",38.1,10
+71782,110706,"Classic Vest, M",38.1,4
+71936,113236,"Women's Mountain Shorts, S",40.5942,14
+71902,112983,"Women's Mountain Shorts, S",41.994,7
+71845,112126,"Women's Mountain Shorts, S",41.994,2
+71832,111802,"Women's Mountain Shorts, S",40.5942,13
+71831,111792,"Women's Mountain Shorts, S",41.994,6
+71780,110627,"Women's Mountain Shorts, S",41.994,6
+71936,113266,"Women's Mountain Shorts, M",41.994,4
+71832,111796,"Women's Mountain Shorts, M",41.994,1
+71936,113247,"Women's Mountain Shorts, L",41.994,8
+71902,112960,"Women's Mountain Shorts, L",41.994,7
+71845,112130,"Women's Mountain Shorts, L",41.994,3
+71831,111790,"Women's Mountain Shorts, L",41.994,2
+71780,110643,"Women's Mountain Shorts, L",41.994,7
+71938,113300,Water Bottle - 30 oz.,2.994,8
+71923,113152,Water Bottle - 30 oz.,2.994,1
+71902,112977,Water Bottle - 30 oz.,2.994,7
+71797,111078,Water Bottle - 30 oz.,2.8942,11
+71784,110756,Water Bottle - 30 oz.,2.8942,11
+71783,110722,Water Bottle - 30 oz.,2.994,10
+71782,110677,Water Bottle - 30 oz.,2.994,6
+71797,111055,Patch Kit/8 Patches,1.374,6
+71784,110793,Patch Kit/8 Patches,1.374,8
+71783,110721,Patch Kit/8 Patches,1.374,6
+71938,113302,"Racing Socks, M",5.394,4
+71935,113219,"Racing Socks, M",5.394,3
+71923,113153,"Racing Socks, M",5.394,4
+71863,112392,"Racing Socks, M",5.394,2
+71815,111453,"Racing Socks, M",5.394,2
+71938,113314,"Racing Socks, L",5.394,2
+71935,113224,"Racing Socks, L",5.2142,13
+71923,113154,"Racing Socks, L",5.2142,14
+71917,113100,"Racing Socks, L",5.394,7
+71863,112391,"Racing Socks, L",5.2142,11
+71797,111051,"Racing Socks, L",5.394,3
+71783,110746,"Racing Socks, L",5.394,1
+71938,113275,Hitch Rack - 4-Bike,72.0,3
+71920,113144,Hitch Rack - 4-Bike,72.0,1
+71902,112978,Hitch Rack - 4-Bike,72.0,4
+71885,112644,Hitch Rack - 4-Bike,72.0,3
+71797,111056,Hitch Rack - 4-Bike,72.0,10
+71784,110767,Hitch Rack - 4-Bike,72.0,6
+71783,110750,Hitch Rack - 4-Bike,72.0,2
+71782,110674,Hitch Rack - 4-Bike,72.0,3
+71938,113293,Bike Wash - Dissolver,4.77,6
+71902,112979,Bike Wash - Dissolver,4.77,5
+71858,112370,Bike Wash - Dissolver,4.77,1
+71797,111072,Bike Wash - Dissolver,4.3725,17
+71784,110763,Bike Wash - Dissolver,4.77,8
+71783,110718,Bike Wash - Dissolver,4.77,8
+71782,110671,Bike Wash - Dissolver,4.77,10
+71938,113307,Hydration Pack - 70 oz.,32.994,7
+71902,112986,Hydration Pack - 70 oz.,32.994,5
+71797,111054,Hydration Pack - 70 oz.,32.994,10
+71784,110792,Hydration Pack - 70 oz.,32.994,9
+71783,110714,Hydration Pack - 70 oz.,32.994,9
+71782,110707,Hydration Pack - 70 oz.,32.994,9
+71780,110644,Hydration Pack - 70 oz.,32.994,1
+71938,113313,"Short-Sleeve Classic Jersey, S",32.394,1
+71902,112993,"Short-Sleeve Classic Jersey, S",32.394,2
+71899,112934,"Short-Sleeve Classic Jersey, S",32.394,2
+71797,111068,"Short-Sleeve Classic Jersey, S",32.394,8
+71784,110787,"Short-Sleeve Classic Jersey, S",32.394,6
+71783,110720,"Short-Sleeve Classic Jersey, S",32.394,6
+71782,110703,"Short-Sleeve Classic Jersey, S",32.394,6
+71938,113298,"Short-Sleeve Classic Jersey, L",32.394,3
+71902,112991,"Short-Sleeve Classic Jersey, L",32.394,5
+71858,112363,"Short-Sleeve Classic Jersey, L",32.394,2
+71816,111458,"Short-Sleeve Classic Jersey, L",32.394,3
+71797,111042,"Short-Sleeve Classic Jersey, L",29.6945,16
+71784,110788,"Short-Sleeve Classic Jersey, L",32.394,7
+71783,110729,"Short-Sleeve Classic Jersey, L",31.3142,11
+71782,110704,"Short-Sleeve Classic Jersey, L",32.394,4
+71938,113281,"Short-Sleeve Classic Jersey, XL",32.394,5
+71920,113142,"Short-Sleeve Classic Jersey, XL",32.394,7
+71902,112998,"Short-Sleeve Classic Jersey, XL",32.394,5
+71897,112901,"Short-Sleeve Classic Jersey, XL",32.394,3
+71885,112645,"Short-Sleeve Classic Jersey, XL",32.394,6
+71797,111050,"Short-Sleeve Classic Jersey, XL",29.6945,15
+71784,110789,"Short-Sleeve Classic Jersey, XL",32.394,3
+71783,110731,"Short-Sleeve Classic Jersey, XL",32.394,9
+71782,110684,"Short-Sleeve Classic Jersey, XL",32.394,4
+71796,111037,"HL Touring Frame - Yellow, 60",602.346,2
+71784,110754,"HL Touring Frame - Yellow, 60",602.346,8
+71782,110685,"HL Touring Frame - Yellow, 60",602.346,2
+71782,110700,"LL Touring Frame - Yellow, 62",200.052,1
+71898,112923,"HL Touring Frame - Yellow, 54",602.346,1
+71784,110770,"HL Touring Frame - Yellow, 54",602.346,4
+71796,111018,"HL Touring Frame - Blue, 50",602.346,1
+71796,111035,"HL Touring Frame - Blue, 54",602.346,6
+71782,110701,"HL Touring Frame - Blue, 54",602.346,1
+71796,111036,"HL Touring Frame - Blue, 60",602.346,1
+71784,110785,"HL Touring Frame - Blue, 60",602.346,1
+71782,110702,"HL Touring Frame - Blue, 60",602.346,1
+71936,113244,Rear Derailleur,72.876,5
+71782,110687,Rear Derailleur,72.876,3
+71784,110772,"LL Touring Frame - Blue, 50",200.052,2
+71784,110783,"LL Touring Frame - Blue, 54",200.052,3
+71796,111033,"LL Touring Frame - Yellow, 44",200.052,1
+71784,110768,"LL Touring Frame - Yellow, 44",200.052,2
+71796,111034,"LL Touring Frame - Yellow, 50",200.052,1
+71784,110784,"LL Touring Frame - Yellow, 50",200.052,1
+71936,113264,"ML Mountain Frame-W - Silver, 40",218.454,2
+71902,112955,"ML Mountain Frame-W - Silver, 40",218.454,1
+71845,112120,"ML Mountain Frame-W - Silver, 40",218.454,4
+71832,111807,"ML Mountain Frame-W - Silver, 40",218.454,5
+71936,113234,"ML Mountain Frame-W - Silver, 42",218.454,2
+71902,113000,"ML Mountain Frame-W - Silver, 42",218.454,3
+71845,112128,"ML Mountain Frame-W - Silver, 42",218.454,2
+71780,110616,"ML Mountain Frame-W - Silver, 42",218.454,4
+71776,110567,Rear Brakes,63.9,1
+71936,113258,LL Mountain Seat/Saddle,16.272,3
+71902,112961,LL Mountain Seat/Saddle,16.272,2
+71832,111801,LL Mountain Seat/Saddle,16.272,1
+71936,113270,ML Mountain Seat/Saddle,23.484,6
+71895,112864,ML Mountain Seat/Saddle,23.484,2
+71845,112141,ML Mountain Seat/Saddle,23.484,8
+71936,113251,HL Mountain Seat/Saddle,31.584,3
+71902,112992,HL Mountain Seat/Saddle,31.584,1
+71845,112144,HL Mountain Seat/Saddle,31.584,2
+71832,111809,HL Mountain Seat/Saddle,31.584,1
+71797,111043,HL Road Seat/Saddle,31.584,2
+71946,113406,HL Touring Seat/Saddle,31.584,1
+71898,112926,HL Touring Seat/Saddle,31.584,3
+71796,111021,HL Touring Seat/Saddle,31.584,1
+71784,110782,HL Touring Seat/Saddle,31.584,2
+71782,110699,HL Touring Seat/Saddle,31.584,1
+71936,113252,"LL Mountain Frame - Silver, 42",158.43,2
+71832,111821,"LL Mountain Frame - Silver, 42",158.43,6
+71936,113259,"LL Mountain Frame - Silver, 44",158.43,1
+71902,112999,"LL Mountain Frame - Silver, 44",158.43,2
+71832,111793,"LL Mountain Frame - Silver, 44",158.43,4
+71780,110624,"LL Mountain Frame - Silver, 44",158.43,2
+71845,112136,"LL Mountain Frame - Silver, 52",158.43,2
+71832,111822,"LL Mountain Frame - Silver, 52",158.43,1
+71936,113239,"LL Mountain Frame - Black, 42",149.874,5
+71845,112147,"LL Mountain Frame - Black, 42",149.874,4
+71936,113257,"LL Mountain Frame - Black, 44",149.874,6
+71902,112963,"LL Mountain Frame - Black, 44",149.874,1
+71845,112142,"LL Mountain Frame - Black, 44",149.874,2
+71832,111799,"LL Mountain Frame - Black, 44",149.874,2
+71780,110642,"LL Mountain Frame - Black, 44",149.874,1
+71936,113229,"LL Mountain Frame - Black, 48",149.874,1
+71902,112975,"LL Mountain Frame - Black, 48",149.874,1
+71832,111820,"LL Mountain Frame - Black, 48",149.874,1
+71780,110621,"LL Mountain Frame - Black, 48",149.874,1
+71936,113237,LL Mountain Pedal,24.294,3
+71902,112968,LL Mountain Pedal,24.294,4
+71832,111819,LL Mountain Pedal,24.294,3
+71780,110641,LL Mountain Pedal,24.294,2
+71936,113269,ML Mountain Pedal,37.254,2
+71902,112987,ML Mountain Pedal,37.254,1
+71846,112149,ML Mountain Pedal,37.254,2
+71832,111805,ML Mountain Pedal,37.254,1
+71936,113250,HL Mountain Pedal,48.594,5
+71902,112964,HL Mountain Pedal,48.594,2
+71899,112941,HL Mountain Pedal,48.594,1
+71845,112125,HL Mountain Pedal,48.594,2
+71832,111804,HL Mountain Pedal,48.594,1
+71780,110626,HL Mountain Pedal,48.594,1
+71938,113280,LL Road Pedal,24.294,5
+71935,113220,LL Road Pedal,24.294,1
+71920,113140,LL Road Pedal,24.294,3
+71915,113091,LL Road Pedal,24.294,4
+71863,112397,LL Road Pedal,24.294,2
+71797,111064,LL Road Pedal,24.294,3
+71783,110728,LL Road Pedal,24.294,3
+71938,113311,ML Road Pedal,37.254,6
+71915,113092,ML Road Pedal,37.254,3
+71797,111060,ML Road Pedal,37.254,4
+71783,110711,ML Road Pedal,37.254,6
+71938,113284,HL Road Pedal,48.594,5
+71915,113093,HL Road Pedal,48.594,1
+71797,111041,HL Road Pedal,48.594,4
+71783,110739,HL Road Pedal,48.594,4
+71936,113225,"LL Mountain Frame - Silver, 40",158.43,3
+71899,112940,"LL Mountain Frame - Silver, 40",158.43,2
+71845,112139,"LL Mountain Frame - Silver, 40",158.43,2
+71832,111816,"LL Mountain Frame - Silver, 40",158.43,2
+71936,113238,Front Derailleur,54.894,5
+71898,112920,Front Derailleur,54.894,3
+71858,112368,Front Derailleur,54.894,1
+71856,112332,Front Derailleur,54.894,1
+71845,112123,Front Derailleur,54.894,1
+71782,110698,Front Derailleur,54.894,2
+71796,111032,HL Touring Handlebars,54.942,1
+71936,113256,Front Brakes,63.9,4
+71898,112927,Front Brakes,63.9,1
+71897,112905,Front Brakes,63.9,1
+71858,112367,Front Brakes,63.9,2
+71845,112119,Front Brakes,63.9,2
+71816,111460,Front Brakes,63.9,1
+71782,110680,Front Brakes,63.9,1
+71936,113249,LL Crankset,105.294,3
+71898,112918,LL Crankset,105.294,4
+71845,112124,LL Crankset,105.294,3
+71936,113232,HL Crankset,242.994,6
+71898,112929,HL Crankset,242.994,3
+71845,112133,HL Crankset,242.994,1
+71782,110697,HL Crankset,242.994,2
+71936,113248,Chain,12.144,3
+71898,112931,Chain,12.144,1
+71858,112366,Chain,12.144,1
+71845,112148,Chain,12.144,3
+71898,112922,"Touring-2000 Blue, 60",728.91,2
+71858,112361,"Touring-2000 Blue, 60",728.91,1
+71816,111454,"Touring-2000 Blue, 60",728.91,1
+71796,111020,"Touring-2000 Blue, 60",728.91,2
+71784,110777,"Touring-2000 Blue, 60",728.91,3
+71782,110695,"Touring-2000 Blue, 60",728.91,1
+71898,112930,"Touring-1000 Yellow, 46",1430.442,3
+71897,112903,"Touring-1000 Yellow, 46",1430.442,2
+71816,111455,"Touring-1000 Yellow, 46",1430.442,1
+71796,111030,"Touring-1000 Yellow, 46",1430.442,3
+71784,110755,"Touring-1000 Yellow, 46",1430.442,2
+71782,110669,"Touring-1000 Yellow, 46",1430.442,1
+71898,112924,"Touring-1000 Yellow, 50",1430.442,1
+71796,111031,"Touring-1000 Yellow, 50",1430.442,1
+71784,110781,"Touring-1000 Yellow, 50",1430.442,2
+71782,110679,"Touring-1000 Yellow, 50",1430.442,1
+71898,112911,"Touring-1000 Yellow, 54",1430.442,1
+71782,110668,"Touring-1000 Yellow, 54",1430.442,3
+71858,112364,"Touring-1000 Yellow, 60",1430.442,1
+71796,111023,"Touring-1000 Yellow, 60",1430.442,3
+71784,110773,"Touring-1000 Yellow, 60",1382.7606,12
+71782,110688,"Touring-1000 Yellow, 60",1430.442,1
+71898,112919,"Touring-3000 Blue, 54",445.41,1
+71858,112371,"Touring-3000 Blue, 54",445.41,1
+71796,111022,"Touring-3000 Blue, 54",445.41,5
+71784,110766,"Touring-3000 Blue, 54",445.41,6
+71782,110693,"Touring-3000 Blue, 54",445.41,2
+71898,112914,"Touring-3000 Blue, 58",445.41,1
+71784,110759,"Touring-3000 Blue, 58",445.41,1
+71782,110675,"Touring-3000 Blue, 58",445.41,4
+71898,112912,"Touring-3000 Blue, 62",445.41,3
+71898,112933,"Touring-3000 Yellow, 44",445.41,2
+71858,112373,"Touring-3000 Yellow, 44",445.41,2
+71816,111459,"Touring-3000 Yellow, 44",445.41,1
+71796,111027,"Touring-3000 Yellow, 44",445.41,7
+71784,110775,"Touring-3000 Yellow, 44",445.41,3
+71782,110691,"Touring-3000 Yellow, 44",445.41,3
+71858,112360,"Touring-3000 Yellow, 50",445.41,1
+71856,112331,"Touring-3000 Yellow, 50",445.41,1
+71784,110771,"Touring-3000 Yellow, 50",445.41,7
+71784,110776,"Touring-3000 Yellow, 54",445.41,5
+71782,110694,"Touring-3000 Yellow, 54",445.41,1
+71898,112925,"Touring-3000 Yellow, 58",445.41,3
+71898,112932,"Touring-3000 Yellow, 62",445.41,5
+71858,112365,"Touring-3000 Yellow, 62",445.41,2
+71796,111028,"Touring-3000 Yellow, 62",445.41,2
+71784,110765,"Touring-3000 Yellow, 62",430.563,11
+71898,112916,"Touring-1000 Blue, 46",1430.442,3
+71897,112898,"Touring-1000 Blue, 46",1430.442,1
+71858,112374,"Touring-1000 Blue, 46",1430.442,2
+71784,110778,"Touring-1000 Blue, 46",1430.442,4
+71782,110683,"Touring-1000 Blue, 46",1430.442,2
+71898,112909,"Touring-1000 Blue, 50",1430.442,6
+71796,111025,"Touring-1000 Blue, 50",1430.442,2
+71784,110779,"Touring-1000 Blue, 50",1430.442,6
+71782,110689,"Touring-1000 Blue, 50",1430.442,2
+71898,112915,"Touring-1000 Blue, 54",1430.442,4
+71782,110696,"Touring-1000 Blue, 54",1430.442,2
+71898,112906,"Touring-1000 Blue, 60",1430.442,3
+71897,112900,"Touring-1000 Blue, 60",1430.442,3
+71858,112372,"Touring-1000 Blue, 60",1430.442,1
+71796,111024,"Touring-1000 Blue, 60",1430.442,9
+71784,110780,"Touring-1000 Blue, 60",1430.442,10
+71898,112910,"Touring-2000 Blue, 46",728.91,3
+71796,111029,"Touring-2000 Blue, 46",728.91,1
+71784,110758,"Touring-2000 Blue, 46",728.91,4
+71782,110682,"Touring-2000 Blue, 46",728.91,1
+71898,112921,"Touring-2000 Blue, 50",728.91,5
+71782,110676,"Touring-2000 Blue, 50",728.91,4
+71898,112917,"Touring-2000 Blue, 54",728.91,5
+71858,112369,"Touring-2000 Blue, 54",728.91,1
+71796,111019,"Touring-2000 Blue, 54",728.91,8
+71784,110762,"Touring-2000 Blue, 54",728.91,4
+71938,113274,"Road-350-W Yellow, 40",1020.594,5
+71935,113221,"Road-350-W Yellow, 40",1020.594,3
+71920,113139,"Road-350-W Yellow, 40",1020.594,1
+71863,112394,"Road-350-W Yellow, 40",1020.594,1
+71797,111077,"Road-350-W Yellow, 40",1020.594,5
+71783,110737,"Road-350-W Yellow, 40",1020.594,5
+71938,113277,"Road-350-W Yellow, 42",1020.594,3
+71797,111074,"Road-350-W Yellow, 42",1020.594,3
+71783,110738,"Road-350-W Yellow, 42",986.5742,13
+71938,113304,"Road-350-W Yellow, 44",1020.594,5
+71938,113286,"Road-350-W Yellow, 48",1020.594,5
+71935,113222,"Road-350-W Yellow, 48",1020.594,2
+71920,113141,"Road-350-W Yellow, 48",1020.594,1
+71797,111071,"Road-350-W Yellow, 48",1020.594,9
+71783,110716,"Road-350-W Yellow, 48",850.495,25
+71938,113308,"Road-750 Black, 58",323.994,4
+71797,111057,"Road-750 Black, 58",323.994,7
+71783,110713,"Road-750 Black, 58",323.994,4
+71898,112907,"Touring-3000 Blue, 44",445.41,4
+71782,110678,"Touring-3000 Blue, 44",445.41,1
+71898,112928,"Touring-3000 Blue, 50",445.41,3
+71897,112899,"Touring-3000 Blue, 50",445.41,4
+71858,112359,"Touring-3000 Blue, 50",445.41,3
+71796,111026,"Touring-3000 Blue, 50",445.41,3
+71784,110774,"Touring-3000 Blue, 50",445.41,8
+71782,110692,"Touring-3000 Blue, 50",445.41,2
+71902,112966,"Mountain-400-W Silver, 38",461.694,3
+71832,111798,"Mountain-400-W Silver, 38",461.694,1
+71936,113243,"Mountain-400-W Silver, 40",461.694,2
+71902,112954,"Mountain-400-W Silver, 40",461.694,2
+71899,112936,"Mountain-400-W Silver, 40",461.694,1
+71846,112152,"Mountain-400-W Silver, 40",461.694,2
+71780,110636,"Mountain-400-W Silver, 40",461.694,2
+71902,112971,"Mountain-400-W Silver, 42",461.694,2
+71780,110637,"Mountain-400-W Silver, 42",461.694,3
+71902,113001,"Mountain-400-W Silver, 46",461.694,4
+71832,111794,"Mountain-400-W Silver, 46",461.694,3
+71780,110617,"Mountain-400-W Silver, 46",461.694,2
+71936,113254,"Mountain-500 Silver, 40",112.998,1
+71902,112970,"Mountain-500 Silver, 40",112.998,4
+71846,112151,"Mountain-500 Silver, 40",112.998,1
+71832,111813,"Mountain-500 Silver, 40",112.998,3
+71780,110633,"Mountain-500 Silver, 40",112.998,2
+71936,113226,"Mountain-500 Silver, 42",112.998,4
+71902,112994,"Mountain-500 Silver, 42",112.998,5
+71832,111800,"Mountain-500 Silver, 42",112.998,2
+71780,110628,"Mountain-500 Silver, 42",112.998,1
+71902,112996,"Mountain-500 Silver, 44",112.998,1
+71780,110634,"Mountain-500 Silver, 44",112.998,3
+71936,113262,"Mountain-500 Silver, 48",112.998,2
+71902,112956,"Mountain-500 Silver, 48",112.998,1
+71780,110635,"Mountain-500 Silver, 48",112.998,3
+71936,113267,"Mountain-500 Silver, 52",112.998,5
+71902,112985,"Mountain-500 Silver, 52",112.998,3
+71899,112935,"Mountain-500 Silver, 52",112.998,1
+71845,112118,"Mountain-500 Silver, 52",112.998,2
+71780,110618,"Mountain-500 Silver, 52",112.998,6
+71902,112969,"Mountain-500 Black, 40",323.994,1
+71780,110629,"Mountain-500 Black, 40",323.994,2
+71832,111811,"Mountain-500 Black, 42",323.994,2
+71780,110620,"Mountain-500 Black, 42",323.994,1
+71902,112990,"Mountain-500 Black, 44",323.994,2
+71780,110630,"Mountain-500 Black, 44",323.994,3
+71936,113231,"Mountain-500 Black, 48",323.994,5
+71902,112965,"Mountain-500 Black, 48",323.994,3
+71832,111812,"Mountain-500 Black, 48",323.994,3
+71780,110631,"Mountain-500 Black, 48",323.994,1
+71902,112981,"Mountain-500 Black, 52",323.994,1
+71780,110632,"Mountain-500 Black, 52",323.994,2
+71936,113253,LL Bottom Bracket,32.394,3
+71898,112913,LL Bottom Bracket,32.394,3
+71782,110681,LL Bottom Bracket,32.394,1
+71936,113227,HL Bottom Bracket,72.894,4
+71898,112908,HL Bottom Bracket,72.894,4
+71845,112145,HL Bottom Bracket,72.894,3
+71782,110672,HL Bottom Bracket,72.894,4
+71938,113299,"Road-750 Black, 44",323.994,3
+71938,113292,"Road-750 Black, 48",323.994,5
+71935,113223,"Road-750 Black, 48",323.994,1
+71863,112393,"Road-750 Black, 48",323.994,2
+71797,111062,"Road-750 Black, 48",323.994,6
+71783,110732,"Road-750 Black, 48",323.994,7
+71938,113291,"Road-750 Black, 52",323.994,4
+71863,112396,"Road-750 Black, 52",323.994,3
+71797,111063,"Road-750 Black, 52",323.994,4
+71783,110733,"Road-750 Black, 52",323.994,5

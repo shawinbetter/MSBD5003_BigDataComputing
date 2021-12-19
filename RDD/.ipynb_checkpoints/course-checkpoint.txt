@@ -1,0 +1,9 @@
+Course Information
+Lecture videos
+
+Course Description
+Big data systems, including cloud computing and parallel data processing
+frameworks, emerge as enabling technologies in managing and mining the 
+massive amount of data across hundreds or even thousands of commodity 
+servers in data centers. This course exposes students to both the theory 
+and hands-on experience of this new technology.
